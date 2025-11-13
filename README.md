@@ -185,10 +185,25 @@ The objective is to align different feature spaces for efficient information ret
 
 ---
 
-🧩 Research Significance
+**🧩 Research Significance**
 
 This project showcases practical application of multimodal representation learning, where attention-based transformers bridge the semantic gap between visual and textual domains.
 It reflects the core goals by enabling semantic retrieval, cross-domain understanding, and explainable AI integration essential components of next-generation smart and context-aware systems.
+
+---
+
+**🏭 Application in Smart Manufacturing Systems**
+
+This model supports human–machine collaboration by enabling automated video captioning in industrial environments.
+It can:
+
+Describe ongoing activities (e.g., “operator calibrating machine,” “robot arm assembling part”),
+
+Generate event logs for safety and process optimization, and
+
+Provide semantic understanding for AI dashboards.
+
+This complements pose detection and predictive maintenance modules as part of a larger industrial AI ecosystem.
 
 ---
 
