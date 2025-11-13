@@ -7,7 +7,7 @@ The system automatically extracts frames from videos and generates **descriptive
 
 ## 🎯 Objective
 To explore **cross-modal embeddings** and **attention-based multimodal architectures** that align image and text representations for video understanding.  
-This work directly aligns with the **NCCU International Internship P1: Multimodal Analysis and Retrieval** research focus.
+This work directly aligns with the **Multimodal Analysis and Retrieval** research focus.
 
 ---
 
